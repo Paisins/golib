@@ -1,4 +1,4 @@
-package stress
+package utils
 
 import (
 	"context"
